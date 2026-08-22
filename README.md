@@ -105,8 +105,6 @@ Test coverage includes:
 - Bookmark creation and return-to-bookmark flow.
 - Cross-feature journeys from discovery to continued reading.
 
-These checks focus on the paths readers use most, so releases stay stable where it counts.
-
 ## Demo Limitations
 
 The public demo has a few limits:
