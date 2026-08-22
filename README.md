@@ -4,7 +4,7 @@ Spine is a simple place to find, organize, and read the books that matter to you
 
 > **Demo status:** You can explore the app, but changes will not be saved.
 
-If the app has been idle, first load may take ~20 seconds.
+**If the app has been idle, first load may take ~20 seconds.**
 
 [Live demo](https://spine-demo-ep0b.onrender.com/)
 
